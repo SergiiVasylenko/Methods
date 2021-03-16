@@ -1,0 +1,13 @@
+D:\SkillFactory\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.csprojAssemblyReference.cache
+D:\SkillFactory\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfoInputs.cache
+D:\SkillFactory\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfo.cs
+D:\SkillFactory\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.csproj.CoreCompileInputs.cache
+D:\SkillFactory\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.exe
+D:\SkillFactory\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.deps.json
+D:\SkillFactory\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.json
+D:\SkillFactory\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.dev.json
+D:\SkillFactory\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.dll
+D:\SkillFactory\Methods\Methods\bin\Debug\netcoreapp3.1\Methods.pdb
+D:\SkillFactory\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.dll
+D:\SkillFactory\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.pdb
+D:\SkillFactory\Methods\Methods\obj\Debug\netcoreapp3.1\Methods.genruntimeconfig.cache
